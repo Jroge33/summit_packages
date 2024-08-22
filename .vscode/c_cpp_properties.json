@@ -1,0 +1,57 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robot/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/ros_astra_camera/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/ce30_c_kinetic/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/costmap_prohibition_layer/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/simulation/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/simulation/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/simulation/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/navigation/robotnik_localization/icp_pose_corrector/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/imu/imu_tools/imu_complementary_filter/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/imu/imu_tools/imu_filter_madgwick/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/imu/imu_manager/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/navigation/robotnik_localization/localization_checker/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/localization/multimap_server/include/**",
+        "/home/robot/catkin_ws/src/my_tutorial/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/imu/myahrs_driver/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/rcomponent/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/localization/robot_localization_utils/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/simulation/robotnik_base_hw_sim/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/robotnik_pad/robotnik_pad/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/robotnik_pad/robotnik_pad_plugins/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/rosserial/rosserial_server/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/others/rosserial/rosserial_test/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_scaled_controllers/scaled_joint_trajectory_controller/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/sick_s300_laser/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_scaled_controllers/speed_scaling_interface/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_scaled_controllers/speed_scaling_state_controller/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/robot/summit_xl_robot/summit_x_controller/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/robot/summit_xl_robot/summit_xl_controller/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/ublox/ublox_gps/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/ublox/ublox_msgs/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/sensors/ublox/ublox_serialization/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_Client_Library/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_Driver/ur_controllers/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/manipulation/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/home/robot/catkin_ws/src/summit_packages_release/web/web_video_server/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
